@@ -1,0 +1,26 @@
+* {
+    font-family: 'Red Hat Text', sans-serif;
+    background-color: #fff;
+    color: #636363;
+}
+
+h1 {
+    font-family: 'Red Hat Display', sans-serif;
+    color: #33ccff;
+}
+
+a {
+    color: #cc0099;
+}
+
+/* Other Colors in Scheme (graphics, charts, diagrams, etc.)
+    #cc0099
+    #e0f7ff
+    #33ccff
+    #b7a599
+    #fbc48d
+    #fd9191
+    #ddc6ba
+    #75a7c8
+    #6998b2 
+*/
