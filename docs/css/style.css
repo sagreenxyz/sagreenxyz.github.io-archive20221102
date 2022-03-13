@@ -13,6 +13,10 @@
     --denary-color: #000;
 }
 
+#profile-pic {
+    border-radius: 20%;
+}
+
 * {
     font-family: 'Red Hat Text', sans-serif;
     background-color: var(--main-bg-color);
