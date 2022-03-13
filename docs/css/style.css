@@ -1,0 +1,68 @@
+:root {
+    --main-bg-color: #fff;
+    --main-text-color: #636363;
+    --primary-color: #33aaff;
+    --secondary-color: #dd0099;
+    --tertiary-color: #f26b6b;
+    --quartenary-color: #cc6600;
+    --quintinary-color: #9e7861;
+    --senary-color: #457087;
+    --septenary-color: #000;
+    --octonary-color: #000;
+    --nonary-color: #000;
+    --denary-color: #000;
+}
+
+#profile-pic {
+    border-radius: 20%;
+}
+
+* {
+    font-family: 'Red Hat Text', sans-serif;
+    background-color: var(--main-bg-color);
+    color: var(--main-text-color);
+}
+
+body {
+    margin: 3em;
+}
+
+h1 {
+    font-family: 'Red Hat Display', sans-serif;
+    color: var(--primary-color);
+}
+
+h2 {
+    font-family: 'Red Hat Display', sans-serif;
+    color: var(--secondary-color);
+}
+
+h3 {
+    font-family: 'Red Hat Display', sans-serif;
+    color: var(--tertiary-color);
+}
+
+h4 {
+    font-family: 'Red Hat Display', sans-serif;
+    color: var(--quartenary-color);
+}
+
+h5 {
+    font-family: 'Red Hat Display', sans-serif;
+    color: var(--quintinary-color);
+}
+
+h6 {
+    font-family: 'Red Hat Display', sans-serif;
+    color: var(--senary-color);
+}
+
+a {
+    color: var(--secondary-color);
+}
+
+hr {
+    height: 2px;
+    border: none;
+    background-color: var(--secondary-color);
+}
